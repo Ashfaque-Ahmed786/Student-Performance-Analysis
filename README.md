@@ -57,3 +57,8 @@ git clone https://github.com/yourusername/student-performance-analysis.git
 
 # Open the notebook
 jupyter notebook Student_Performance_EDA.ipynb
+
+🧑‍💻 Author
+Your ASHDFAQUE AHMED
+
+📫 your ashfaqueahmed3150@gmail.com
